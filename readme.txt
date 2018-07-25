@@ -11,3 +11,4 @@ git log --pretty=oneline （单行显示提交日志）
 git reset --hard HEAD^
 git reset 1094a(版本回退)
 git reflog （查看历史操作）
+git diff HEAD -- readme.txt(查看工作区和版本库里面最新版本的区别)
