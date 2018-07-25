@@ -16,6 +16,7 @@ git status (查看状态)
 git diff HEAD -- readme.txt(查看工作区和版本库里面最新版本的区别)
 git checkout -- readme.txt(回到最近一次commit或add时的状态)
 git reset HEAD readme.txt（撤销暂存区的修改）
+<<<<<<< HEAD
 git remote add origin git@github.com:dna80120880/learning.git()
 git remote -v(查看远程库的地址)
 git remote set-url origin [url]
@@ -42,3 +43,9 @@ Creating a new branch is quick and simple
 
 conflict2
 >>>>>>> dev
+=======
+
+conflict
+>>>>>>> cb0dd034da8ffa52c3a01e2307b14337e912cc99
+
+solve
