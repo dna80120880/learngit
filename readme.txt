@@ -3,6 +3,7 @@ Git is free software.
 
 git init （将当前目录变成版本库）
 git add readme.txt (添加文件)
+git rm test.txt(删除文件)
 git commit -m "wrote a readme file"(提交)
 i "xxxx" esc : wq enter
 git commit --amend （可以对上一次的提交做修改）
