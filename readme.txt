@@ -27,3 +27,5 @@ ssh-add 文件名 （添加密钥到ssh）
 git clone git@github.com:michaelliao/gitskills.git（克隆一个本地库）
 git checkout -b dev（创建并切换至一个新的分支dev）相当于git branch dev // git checkout dev两条命令
 git branch (查看当前分支)
+
+Creating a new branch is quick AND simple
