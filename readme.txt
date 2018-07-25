@@ -16,3 +16,5 @@ git status (查看状态)
 git diff HEAD -- readme.txt(查看工作区和版本库里面最新版本的区别)
 git checkout -- readme.txt(回到最近一次commit或add时的状态)
 git reset HEAD readme.txt（撤销暂存区的修改）
+
+conflict
