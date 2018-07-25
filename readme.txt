@@ -29,3 +29,5 @@ git checkout -b dev（创建并切换至一个新的分支dev）相当于git bra
 git branch (查看当前分支)
 
 Creating a new branch is quick and simple
+
+change1
