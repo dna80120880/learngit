@@ -31,5 +31,7 @@ git branch -d dev(删除dev分支)
 git merge dev(合并指定分支dev到当前分支)
 git merge --no-ff -m "merge with no-ff" dev(合并指定分支dev到当前分支并保留dev分支)
 git stash （保存当前工作并使工作区为clear）
-
-git is a free software
+git stash list(查看保存的工作)
+git stash apply(恢复工作)
+git stash drop (删除之前的工作进度)
+git stash pop (恢复并删除)
