@@ -30,4 +30,4 @@ git branch (查看当前分支)
 
 Creating a new branch is quick and simple
 
-change1
+conflict2
