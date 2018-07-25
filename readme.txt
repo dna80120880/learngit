@@ -27,6 +27,7 @@ ssh-add 文件名 （添加密钥到ssh）
 git clone git@github.com:michaelliao/gitskills.git（克隆一个本地库）
 git checkout -b dev（创建并切换至一个新的分支dev）相当于git branch dev // git checkout dev两条命令
 git branch (查看当前分支)
+<<<<<<< HEAD
 git branch -d dev(删除dev分支)
 git merge dev(合并指定分支dev到当前分支)
 git merge --no-ff -m "merge with no-ff" dev(合并指定分支dev到当前分支并保留dev分支)
@@ -35,3 +36,9 @@ git stash list(查看保存的工作)
 git stash apply(恢复工作)
 git stash drop (删除之前的工作进度)
 git stash pop (恢复并删除)
+=======
+
+Creating a new branch is quick and simple
+
+conflict2
+>>>>>>> dev
