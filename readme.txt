@@ -8,3 +8,6 @@ i "xxxx" esc : wq enter
 git commit --amend （可以对上一次的提交做修改）
 git log （查看提交日志）
 git log --pretty=oneline （单行显示提交日志）
+git reset --hard HEAD^
+git reset 1094a(版本回退)
+git reflog （查看历史操作）
